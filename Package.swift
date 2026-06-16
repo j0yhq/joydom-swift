@@ -15,13 +15,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "JoyDOM",
-            url: "https://github.com/j0yhq/joydom-swift/releases/download/0.0.2-alpha/JoyDOM.xcframework.zip",
-            checksum: "e7f0e885c8b92571b121ffc4d9c85d643d57abe819b80581134e4169de5b856a"
+            url: "https://github.com/j0yhq/joydom-swift/releases/download/0.0.3-alpha/JoyDOM.xcframework.zip",
+            checksum: "6cec6b5c13d0c40ffb97c9585366dfb50b9a968b5dcd1638f14e15cc5e5e8bf8"
         ),
         .binaryTarget(
             name: "FlexLayout",
-            url: "https://github.com/j0yhq/joydom-swift/releases/download/0.0.2-alpha/FlexLayout.xcframework.zip",
-            checksum: "30c983b1c1ef25e50510e9e34ffb480ae1b684f57dce5e5a966f0fcfc2a44dcc"
+            url: "https://github.com/j0yhq/joydom-swift/releases/download/0.0.3-alpha/FlexLayout.xcframework.zip",
+            checksum: "61f4a36ea6745505b7781f8e44b7c43903d6f862890784855e9ffa3ffcc31b33"
         ),
     ]
 )
